@@ -1,0 +1,7 @@
+# npm artifacts
+dist
+node_modules
+
+# crossplane cli artifacts
+schemas
+_output/*

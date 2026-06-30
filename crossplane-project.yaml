@@ -25,7 +25,7 @@ spec:
       name: network
     source: Directory
   license: Apache-2.0
-  repository: xpkg.upbound.io/stevendborrelli/configuration-aws-network-ts
+  repository: index.docker.io/steve/configuration-aws-network-ts
   schemas:
     languages:
     - typescript

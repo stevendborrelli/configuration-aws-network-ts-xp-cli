@@ -9,7 +9,7 @@ spec:
   mode: Pipeline
   pipeline: 
   - functionRef:
-      name: stevendborrelli-configuration-aws-network-tsnetwork 
+      name: steve-configuration-aws-network-tsnetwork  
     step: configure-aws-network
   - functionRef:
       name: crossplane-contrib-function-auto-ready

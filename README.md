@@ -2,6 +2,8 @@
 
 This repository contains a TypeScript implementation of [configuration-aws-network](https://github.com/upbound/configuration-aws-network), using Crossplane's [function-sdk-typescript](https://www.npmjs.com/package/@crossplane-org/function-sdk-typescript) and the [Crossplane CLI](https://docs.crossplane.io/latest/cli/) project commands.
 
+**Note** Typescript support requires a Crossplane CLI with PR <https://github.com/crossplane/cli/issues/169> merged.
+
 - [Installing and Running the Configuration and Function](#installing-and-running-the-configuration-and-function)
   - [Installation of the Package](#installation-of-the-package)
   - [Configuring AWS Authentication](#configuring-aws-authentication)
